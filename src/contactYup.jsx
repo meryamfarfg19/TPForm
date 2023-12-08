@@ -43,7 +43,7 @@ export default function FormContact() {
              <br/>Yup is a popular validation library for Reactjs that makes it easy to create and manage form validation
              <br/>Formik eliminates the work involved in setting up a state for form fields.
              </p>
-            <a href="contactRef">contact using useRef</a>
+            <a href="/contactRef">contact using useRef</a>
              <form onSubmit={handleSubmit} >
 
             <h1>Contact form </h1>

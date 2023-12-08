@@ -155,7 +155,7 @@ export default function FormContact() {
                 </div>
            :
            <>
-            <a href="/contactYup">contact using Yup and Formik</a>
+            <a href="/">contact using Yup and Formik</a>
             <form onSubmit={handelSubmit} onChange={handelChange} >
             {
             /* //////////////////////if errors exist display all errors */
