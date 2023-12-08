@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "./static/css/main.241951ba.css",
-    "main.js": "./static/js/main.f2baa36f.js",
-    "index.html": "./index.html",
-    "main.241951ba.css.map": "./static/css/main.241951ba.css.map",
-    "main.f2baa36f.js.map": "./static/js/main.f2baa36f.js.map"
+    "main.css": "/TPForm/static/css/main.241951ba.css",
+    "main.js": "/TPForm/static/js/main.f2baa36f.js",
+    "index.html": "/TPForm/index.html",
+    "main.241951ba.css.map": "/TPForm/static/css/main.241951ba.css.map",
+    "main.f2baa36f.js.map": "/TPForm/static/js/main.f2baa36f.js.map"
   },
   "entrypoints": [
     "static/css/main.241951ba.css",
