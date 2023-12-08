@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TPForm/static/css/main.241951ba.css",
+    "main.js": "/TPForm/static/js/main.7b05f445.js",
+    "index.html": "/TPForm/index.html",
+    "main.241951ba.css.map": "/TPForm/static/css/main.241951ba.css.map",
+    "main.7b05f445.js.map": "/TPForm/static/js/main.7b05f445.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.241951ba.css",
+    "static/js/main.7b05f445.js"
+  ]
+}
